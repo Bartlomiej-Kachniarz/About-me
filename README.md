@@ -1,6 +1,6 @@
 # Hi!
 ### I’m @Bartlomiej-Kachniarz / Data Scientist based in Warsaw, Poland 👋 
-### I’m interested in Artificial Intelligence and Data Analysis field and I'm building a portfolio of my best projects 
+### I’m interested in Artificial Intelligence and Data Analysis fields and I'm building a portfolio of my best projects 
 ### My tech-stack includes in particular:
 - **Python**
   - Numpy
@@ -14,7 +14,7 @@
 - **SQL**
 - but I'm eager to learn new technologies!
 ### I develop my knowledge about Deep Learning models in Tensorflow / Keras / PyTorch
-### I’m looking to collaborate on machine learning projects in any of the following areas: 
+### I’m currently focused on machine learning projects in the following areas: 
 - _Computer Vision_
 - _Natural Language Processing_
 - _Time Series Forecasting_
